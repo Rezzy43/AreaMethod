@@ -1,0 +1,14 @@
+C:\Users\micha\Desktop\repos\AreaMethod\bin\Debug\net8.0\AreaMethod.exe
+C:\Users\micha\Desktop\repos\AreaMethod\bin\Debug\net8.0\AreaMethod.deps.json
+C:\Users\micha\Desktop\repos\AreaMethod\bin\Debug\net8.0\AreaMethod.runtimeconfig.json
+C:\Users\micha\Desktop\repos\AreaMethod\bin\Debug\net8.0\AreaMethod.dll
+C:\Users\micha\Desktop\repos\AreaMethod\bin\Debug\net8.0\AreaMethod.pdb
+C:\Users\micha\Desktop\repos\AreaMethod\obj\Debug\net8.0\AreaMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Desktop\repos\AreaMethod\obj\Debug\net8.0\AreaMethod.AssemblyInfoInputs.cache
+C:\Users\micha\Desktop\repos\AreaMethod\obj\Debug\net8.0\AreaMethod.AssemblyInfo.cs
+C:\Users\micha\Desktop\repos\AreaMethod\obj\Debug\net8.0\AreaMethod.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\repos\AreaMethod\obj\Debug\net8.0\AreaMethod.dll
+C:\Users\micha\Desktop\repos\AreaMethod\obj\Debug\net8.0\refint\AreaMethod.dll
+C:\Users\micha\Desktop\repos\AreaMethod\obj\Debug\net8.0\AreaMethod.pdb
+C:\Users\micha\Desktop\repos\AreaMethod\obj\Debug\net8.0\AreaMethod.genruntimeconfig.cache
+C:\Users\micha\Desktop\repos\AreaMethod\obj\Debug\net8.0\ref\AreaMethod.dll
